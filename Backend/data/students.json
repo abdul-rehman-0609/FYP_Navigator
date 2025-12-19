@@ -1,0 +1,64 @@
+{
+  "1": {
+    "student_id": "1",
+    "name": "Osama",
+    "cgpa": 3.5,
+    "major": "Computer Science",
+    "year": 3,
+    "skills": {
+      "python": 2,
+      "databases": 2,
+      "java": 2,
+      "security": 4
+    },
+    "interests": {
+      "data science": 3,
+      "artificial intelligence": 2
+    },
+    "preferred_domains": [
+      "data science",
+      "Artificial Intelligence",
+      "Cybersecurity",
+      "Data Science"
+    ],
+    "max_weekly_hours": 19,
+    "team_size_preference": 1,
+    "completed_courses": [
+      "Computer Networks",
+      "Artificial Intelligence",
+      "Information Security",
+      "Database Systems"
+    ]
+  },
+  "bf77a0c8-024d-4415-9832-4fd8ce91abdf": {
+    "student_id": "bf77a0c8-024d-4415-9832-4fd8ce91abdf",
+    "name": "Abdul Rehman",
+    "cgpa": 3.8,
+    "major": "Computer Science",
+    "year": 3,
+    "skills": {
+      "python": 3,
+      "cryptography": 2,
+      "security": 2,
+      "payment-gateway": 2
+    },
+    "interests": {
+      "cybersecurity": 3,
+      "cloud computing": 2
+    },
+    "preferred_domains": [
+      "Cloud Computing",
+      "Cybersecurity",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "max_weekly_hours": 20,
+    "team_size_preference": 2,
+    "completed_courses": [
+      "Computer Networks",
+      "Database Systems",
+      "Information Security",
+      "Artificial Intelligence"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+
+# Data & Models (Optional - keep data if small, exclude if large)
+# models/
+# data/
+
+# Logs
+*.log
